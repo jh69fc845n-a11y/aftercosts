@@ -1,0 +1,12 @@
+Name,Financial Status,Currency,Created at,Total,Taxes,Shipping,Refunded Amount,Lineitem SKU,Lineitem quantity,Lineitem price,Cancelled at
+#1001,paid,USD,2026-10-01,194,14,0,0,COAT-BLK,1,140,
+#1001,,,,,,,,BELT-BRN,1,52,
+#1002,paid,USD,2026-10-02,78,6,0,0,TEE-WHT,2,36,
+#1003,partially_refunded,USD,2026-10-03,179,14,0,75,SHOE-001,1,171,
+#1004,paid,USD,2026-10-05,298,24,0,0,BAG-001,2,149,
+#1005,paid,USD,2026-10-06,39,3,0,0,TEE-WHT,1,35,
+#1006,refunded,USD,2026-10-07,109,9,0,109,SHOE-001,1,100,
+#1007,paid,USD,2026-10-10,245,20,0,0,COAT-BLK,1,205,
+#1008,paid,USD,2026-10-11,68,4,0,0,BELT-BRN,1,64,
+#1009,paid,USD,2026-10-13,188,13,0,0,BAG-001,1,175,
+#1010,paid,USD,2026-10-17,59,4,0,0,TEE-WHT,1,55,
