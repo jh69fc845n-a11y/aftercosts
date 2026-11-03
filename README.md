@@ -20,6 +20,10 @@ AfterCosts helps store owners estimate what remains after refunds, mapped produc
 
 The **free web evaluation contains the core calculation features**. An **optional $29 one-time offline kit** provides a portable HTML copy and companion templates, with overlapping functionality. This is *not* a monthly subscription or account-bound paid SaaS. The checkout delivery link is shareable.
 
+## We are inviting 3 Shopify merchant testers
+
+Have a weekly Shopify spreadsheet? [See the open early-tester invitation](https://github.com/jh69fc845n-a11y/aftercosts/issues/1). The free tool runs locally in your browser; please **do not share actual customer CSVs or sensitive order information**. We want candid feedback, not paid endorsements.
+
 ## Try with fictional data
 
 1. [Open the web application](https://aftercosts.jebraeili-nima.workers.dev/) and use its explicitly fictional demonstration figures.
