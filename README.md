@@ -2,7 +2,7 @@
 
 **A private, browser-side Shopify CSV profit-close studio for independent ecommerce merchants.**
 
-[**Open the free AfterCosts tool**](https://aftercosts.jebraeili-nima.workers.dev/) · [Profit-close guide](https://aftercosts.jebraeili-nima.workers.dev/guides/shopify-csv-profit-without-double-counting) · [Refund-timing guide](https://aftercosts.jebraeili-nima.workers.dev/guides/shopify-refund-dates-order-csv-vs-transactions)
+[**Open the free AfterCosts tool**](https://aftercosts.jebraeili-nima.workers.dev/?utm_source=github) · [Profit-close guide](https://aftercosts.jebraeili-nima.workers.dev/guides/shopify-csv-profit-without-double-counting) · [Refund-timing guide](https://aftercosts.jebraeili-nima.workers.dev/guides/shopify-refund-dates-order-csv-vs-transactions)
 
 AfterCosts helps store owners estimate what remains after refunds, mapped product costs, payment fees, merchant-paid shipping, advertising and overhead. Import your own Shopify Orders CSV **locally in your browser** and review missing-cost warnings and assumptions.
 
@@ -26,7 +26,7 @@ Have a weekly Shopify spreadsheet? [See the open early-tester invitation](https:
 
 ## Try with fictional data
 
-1. [Open the web application](https://aftercosts.jebraeili-nima.workers.dev/) and use its explicitly fictional demonstration figures.
+1. [Open the web application](https://aftercosts.jebraeili-nima.workers.dev/?utm_source=github) and use its explicitly fictional demonstration figures.
 2. Explore the synthetic CSV samples in [examples/](examples/).
 3. Export your own Orders CSV from Shopify for one reporting window and currency.
 4. Enter relevant SKU costs, fees, shipping, advertising and overhead for that same period.
