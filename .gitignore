@@ -1,0 +1,10 @@
+# Avoid accidentally tracking secrets, customer data, and paid bundles
+.env*
+*.pem
+*.key
+*.db
+*.sqlite
+private/
+customers/
+paid/
+exports/
