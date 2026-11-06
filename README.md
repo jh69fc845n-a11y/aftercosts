@@ -18,7 +18,7 @@ AfterCosts helps store owners estimate what remains after refunds, mapped produc
 - Include period advertising and overhead to estimate order contribution.
 - Download redacted reports and print results locally.
 
-The **free web evaluation contains the core calculation features**. An **optional $29 one-time offline kit** provides a portable HTML copy and companion templates, with overlapping functionality. This is *not* a monthly subscription or account-bound paid SaaS. The checkout delivery link is shareable.
+The **free web evaluation contains the core calculation features**. An **optional $29 one-time offline kit** provides a portable HTML copy and companion templates, with overlapping functionality. This is *not* a monthly subscription or account-bound paid SaaS. The checkout delivery link is shareable. [**View the optional $29 offline kit checkout**](https://aftercosts.jebraeili-nima.workers.dev/go/offline-kit?utm_source=github) (limited to 10 completed purchases; availability is shown at checkout).
 
 ## We are inviting 3 Shopify merchant testers
 
